@@ -4,7 +4,7 @@ Simple API that permits to register planets of Star Wars Universe.
 
 API Documentation: [Click here](https://documenter.getpostman.com/view/216408/SVfKwqaf?version=latest#3529976c-1f16-4940-9df6-4b0e839e483a)
 
-You can use cUrl or Postman (https://www.getpostman.com/) to access the API.
+You can use cUrl or [Postman](https://www.getpostman.com/) to access the API.
 
 ### Technologies
 In this project was created with this technologies below:
