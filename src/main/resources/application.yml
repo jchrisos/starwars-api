@@ -1,0 +1,12 @@
+micronaut:
+  application:
+    name: starwars-api
+
+jasync:
+  client:
+    port: 3306
+    host: localhost
+    database: starwars
+    username: starwars
+    password: starwars
+    maxActiveConnections: 5
