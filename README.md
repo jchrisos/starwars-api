@@ -1,4 +1,4 @@
-#Star Wars API
+# Star Wars API
 
 Simple API that permits to register planets of Star Wars Universe.
 
@@ -6,7 +6,7 @@ API Documentation: [Click here](https://documenter.getpostman.com/view/216408/SV
 
 You can use cUrl or Postman (https://www.getpostman.com/) to access the API.
 
-###Technologies
+### Technologies
 In this project was created with this technologies below:
 - Kotlin (language)
 - Micronaut (Web Framework)
@@ -17,7 +17,7 @@ In this project was created with this technologies below:
 - DataGrip (Database Client)
 - Ubuntu 18.04 (OS)
 
-###Running project
+### Running project
 
 The project depends on this applications:
 
@@ -50,7 +50,7 @@ Docker-compose completed:
 
 As you can see, micronaut is a lightweight framework and the startup is usually less than a minute :D
 
-###Additional information
+### Additional information
 
 The API runs at http://localhost:8080
 
